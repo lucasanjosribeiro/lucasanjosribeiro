@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas!
 
-Psicólogo em transição de carreira para Tecnologia, com foco na plataforma **ServiceNow**
+Psicólogo em transição de carreira para Tecnologia, com foco na plataforma ServiceNow
 
 ## Sobre mim
 - Estudando para a certificação **CSA (Certified System Administrator - ServiceNow)** 
