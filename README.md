@@ -9,6 +9,7 @@ Psicólogo em transição de carreira para Tecnologia, com foco na plataforma Se
 
 ## Projetos em destaque
 *"CX360" - aplicação desenvolvida na PDI pessoal, com objetivo de simular a gestão de Incidentes e Problemas dentro de uma plataforma de e-commerce. Além de, explorar o conhecimento obtido nas experiências profissionais em Customer Experience e Psicologia.*
+
 Link: https://github.com/lucasanjosribeiro/CX360-servicenow 
 
 ## Contato
