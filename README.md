@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Lucas!
 
-<!--
-**lucasanjosribeiro/lucasanjosribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Psicólogo em transição de carreira para Tecnologia, com foco na plataforma **ServiceNow**
 
-Here are some ideas to get you started:
+## Sobre mim
+- Estudando para a certificação **CSA (Certified System Administrator - ServiceNow)** 
+- Conhecimento em App Engine Studio, Flow Designer, JavaScript/Scripting, Business Rules e Platform Analytics
+- Vindo da área de Customer Experience e Psicologia, trago uma forte bagagem em resolução de problemas, análise de indicadores e comunicação com pessoas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+*"CX360" - aplicação desenvolvida na PDI pessoal, com objetivo de automatizar processos e fornecer atendimento especializado aos clientes dentro da plataforma ServiceNow. Além de, explorar o conhecimento obtido nas experiências profissionais em Customer Experience e Psicologia.*
+
+## Contato
+- LinkedIn: linkedin.com/in/lucas-anjos-ribeiro-77b062239
