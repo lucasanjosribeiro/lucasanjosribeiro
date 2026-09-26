@@ -13,4 +13,4 @@ Psicólogo em transição de carreira para Tecnologia, com foco na plataforma Se
 Link: https://github.com/lucasanjosribeiro/CX360-servicenow 
 
 ## Contato
-- LinkedIn: linkedin.com/in/lucas-anjos-ribeiro-77b062239
+- LinkedIn: (https://www.linkedin.com/in/lucas-anjos-ribeiro-77b062239/)
